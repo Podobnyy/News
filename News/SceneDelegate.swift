@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  News
 //
-//  Created by Сергей Александрович on 16.11.2020.
+//  Created by Сергей Александрович on 11.11.2020.
 //
 
 import UIKit
